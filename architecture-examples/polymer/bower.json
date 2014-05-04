@@ -5,6 +5,7 @@
 		"todomvc-common": "~0.1.4",
 		"polymer-selector": "Polymer/polymer-selector",
 		"flatiron-director": "Polymer/flatiron-director",
-		"polymer-localstorage": "Polymer/polymer-localstorage"
+		"polymer-localstorage": "Polymer/polymer-localstorage",
+    "bacon" : "*"
 	}
 }
